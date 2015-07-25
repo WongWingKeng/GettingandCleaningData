@@ -29,7 +29,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 - **`tidy_alldata.txt`** : The initial cleaned data from the original data set using run_analysis.R. This file contains only the extraction of all the Mean and Standard Deviation measurements from the source data set.
 
-- **`tidy_averaged_bySubjectActivity.txt`** : The second cleaned data set from using run_analysis.R. This file contains the averaged of each measurements grouped by  Subject and Activity of the first "tidy_alldata.txt" data set.
+- **`tidy_averaged_bySubjectActivity.txt`** : The second cleaned data set from using run_analysis.R. This file contains the averaged value of each measurement grouped by Subject and Activity of the first "tidy_alldata.txt" data set.
 
 - **`CodeBook.md`** : The CodeBook provides description to the source data structure, data transformation process from raw to cleaned data and the data variables information (Data Dictionary). 
 

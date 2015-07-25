@@ -49,7 +49,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ### Execution
 
-***Note**: The R script was created and tested in Windows environment with R studio using R version 3.2.1. 
+**Note**: The R script was created and tested in Windows environment with R studio using R version 3.2.1. 
 
 1. Startup R Studio.
 
